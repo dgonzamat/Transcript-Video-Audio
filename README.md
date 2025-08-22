@@ -32,4 +32,3 @@ Conversión y transcripción offline (sin APIs) para Windows.
 - El modelo "small" es más rápido pero menos preciso. Puedes cambiar `VOSK_MODEL_NAME` por un modelo más grande de español desde `https://alphacephei.com/vosk/models`.
 - No se suben a git los binarios (`tools/`), modelos (`models/`) ni archivos grandes (`.mp4`, `.mp3`, `.wav`).
 - Si cambias el nombre del video, actualiza las variables en los scripts.
-
